@@ -4,7 +4,7 @@
 Watch workshop video at: [forthcoming]
 
 Instructions:
-If you wish to use the enclosed virtual environment, feel free to use the environment.yml file included, using
+If you're feeling too lazy to make a virtenv, feel free to use the environment.yml file included, using
 ```
 conda activate hq-demo
 ```
